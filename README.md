@@ -1,5 +1,8 @@
 # Bilmart
 Bilmart is a web app that allows the Bilkent University community to: buy or sell second-hand items, borrow or donate, and make posts for lost and found items.
+
+Demo video: https://www.youtube.com/watch?v=sWQWJBZ1NXA&ab_channel=UmutArdaTuncar
+
 ## Motivation
 BilMart is elaborately designed to enhance the Bilkent experience by allowing students and members of our community to find second-hand items and more in a faster and easier fashion.
 ## Goals
